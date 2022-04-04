@@ -8,4 +8,4 @@ Also some buttons may have bugs. Like i said consider this game as inexperienced
 
 ## About Game
 
-The game is very similiar to classic Tic-Tac-Toe (XOX). Game is played with two people. Each player can choose any mark ('S' or 'O' ). When a **"SOS"** pattern forms on the board, the player scores a point and continues playing. When there are no empty squares on the board, game is over and the player with more points wins the game.
+The game is very similiar to classic Tic-Tac-Toe (XOX). Game is played with two people. Each player can choose any mark ('S' or 'O' ). When a **"SOS"** pattern forms on the board, the player scores a point and continues playing. When there are no empty squares on the board, game is over and the player with more points wins the game. 
